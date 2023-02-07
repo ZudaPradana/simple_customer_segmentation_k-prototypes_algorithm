@@ -3,7 +3,7 @@
 Perusahaan sedang berusaha untuk mengenal lebih baik pelanggannya. Tujuannya agar perusahaan dapat membuat strategi pemasaran yang lebih tepat dan juga efisien bagi tiap tiap pelanggan.
 
 
-![data](data.png)
+![data](./cust_segmentation/data.png)
 
 List column data:
 - Customer ID: Kode pelanggan dengan format campuran teks CUST- diikuti angka
