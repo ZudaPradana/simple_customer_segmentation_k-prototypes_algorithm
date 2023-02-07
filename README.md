@@ -1,0 +1,2 @@
+# simple_customer_segmentation_k-prototypes_algorithm
+Membuat model customer segmentation menggunakan algoritma k-prototypes
